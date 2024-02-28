@@ -102,7 +102,7 @@ const App = () => {
 			],
 		},
 		{
-			questionText: "who is trained Batman ?",
+			questionText: "who has trained Batman ?",
 			answerOptions: [
 				{ answerText: "He trained himself.", isCorrect: false },
 				{ answerText: "Gotham City Police", isCorrect: false },
